@@ -6,7 +6,7 @@ This repository contains the Python code and presentation slides from a seminar 
 🎯 Seminar Overview
 Title: How to Communicate Data Clearly: Practical Data Visualization for Researchers
 
-Audience: Researchers and students with basic Python knowledge interested in improving their data visualization skills
+Audience: PhD students at Queen Margaret University, with little or no Python knowledge interested in improving their data visualization skills
 
 Focus: Clear communication, visual perception principles, design choices, and common pitfalls
 
