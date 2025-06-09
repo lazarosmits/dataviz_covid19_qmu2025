@@ -15,3 +15,13 @@ Approach: Real-world examples using Python visualization libraries, with explana
 
 
 👉 [View Slides](https://docs.google.com/presentation/d/1DMpK6BzaJq8-p6MZtFUYs1myuEXw63pz97upZd8PZ5w/edit?usp=sharing)
+
+
+📊 Data Sources
+COVID-19 Cases and Deaths: Downloaded from Worldometer
+
+Vaccination Rates: Retrieved from the Office for National Statistics (ONS)
+
+These datasets were used for illustrative purposes in visualization examples and are included in the /data folder.
+
+
