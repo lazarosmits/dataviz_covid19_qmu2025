@@ -11,3 +11,7 @@ Audience: PhD students at Queen Margaret University, with little or no Python kn
 Focus: Clear communication, visual perception principles, design choices, and common pitfalls
 
 Approach: Real-world examples using Python visualization libraries, with explanations of design decisions
+
+
+
+👉 [View Slides (PDF)](https://docs.google.com/presentation/d/1DMpK6BzaJq8-p6MZtFUYs1myuEXw63pz97upZd8PZ5w/edit?usp=sharing)
