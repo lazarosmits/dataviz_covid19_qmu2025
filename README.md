@@ -14,4 +14,4 @@ Approach: Real-world examples using Python visualization libraries, with explana
 
 
 
-👉 [View Slides (PDF)](https://docs.google.com/presentation/d/1DMpK6BzaJq8-p6MZtFUYs1myuEXw63pz97upZd8PZ5w/edit?usp=sharing)
+👉 [View Slides](https://docs.google.com/presentation/d/1DMpK6BzaJq8-p6MZtFUYs1myuEXw63pz97upZd8PZ5w/edit?usp=sharing)
